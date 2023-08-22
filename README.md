@@ -1,4 +1,5 @@
-# DATA2060 Spring23 S01 Machine Learning: from Theory to Algorithms
+# DATA2060: Machine Learning: from Theory to Algorithms
+## Fall 2023
 
 Check the canvas site of the course for more details!
 
