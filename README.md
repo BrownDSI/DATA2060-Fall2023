@@ -2,4 +2,4 @@
 
 Check the canvas site of the course for more details!
 
-https://canvas.brown.edu/courses/1090555
+https://canvas.brown.edu/courses/1092451
